@@ -1,0 +1,14 @@
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Kursova_Rabota2\bin\Debug\net6.0\Kursova_Rabota2.exe
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Kursova_Rabota2\bin\Debug\net6.0\Kursova_Rabota2.deps.json
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Kursova_Rabota2\bin\Debug\net6.0\Kursova_Rabota2.runtimeconfig.json
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Kursova_Rabota2\bin\Debug\net6.0\Kursova_Rabota2.dll
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Kursova_Rabota2\bin\Debug\net6.0\Kursova_Rabota2.pdb
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Kursova_Rabota2\obj\Debug\net6.0\Kursova_Rabota2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Kursova_Rabota2\obj\Debug\net6.0\Kursova_Rabota2.AssemblyInfoInputs.cache
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Kursova_Rabota2\obj\Debug\net6.0\Kursova_Rabota2.AssemblyInfo.cs
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Kursova_Rabota2\obj\Debug\net6.0\Kursova_Rabota2.csproj.CoreCompileInputs.cache
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Kursova_Rabota2\obj\Debug\net6.0\Kursova_Rabota2.dll
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Kursova_Rabota2\obj\Debug\net6.0\refint\Kursova_Rabota2.dll
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Kursova_Rabota2\obj\Debug\net6.0\Kursova_Rabota2.pdb
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Kursova_Rabota2\obj\Debug\net6.0\Kursova_Rabota2.genruntimeconfig.cache
+C:\Users\GOLF\Desktop\C#\C#Zada4iVChas\Kursova_Rabota2\obj\Debug\net6.0\ref\Kursova_Rabota2.dll

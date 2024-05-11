@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Kursova_Rabota2/1.0.0": {
+        "runtime": {
+          "Kursova_Rabota2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kursova_Rabota2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

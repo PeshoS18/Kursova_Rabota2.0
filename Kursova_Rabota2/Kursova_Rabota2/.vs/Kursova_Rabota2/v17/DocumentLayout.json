@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GOLF\\Desktop\\C#\\Kursova_Rabota2\\Kursova_Rabota2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D68F5A6-F0EC-4FA2-8A97-F918ADA0749A}|Kursova_Rabota2.csproj|c:\\users\\golf\\desktop\\c#\\kursova_rabota2\\kursova_rabota2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D68F5A6-F0EC-4FA2-8A97-F918ADA0749A}|Kursova_Rabota2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D68F5A6-F0EC-4FA2-8A97-F918ADA0749A}|Kursova_Rabota2.csproj|C:\\Users\\GOLF\\Desktop\\C#\\Kursova_Rabota2\\Kursova_Rabota2\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{7D68F5A6-F0EC-4FA2-8A97-F918ADA0749A}|Kursova_Rabota2.csproj|solutionrelative:classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D68F5A6-F0EC-4FA2-8A97-F918ADA0749A}|Kursova_Rabota2.csproj|c:\\users\\golf\\desktop\\c#\\kursova_rabota2\\kursova_rabota2\\shapeinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D68F5A6-F0EC-4FA2-8A97-F918ADA0749A}|Kursova_Rabota2.csproj|solutionrelative:shapeinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D68F5A6-F0EC-4FA2-8A97-F918ADA0749A}|Kursova_Rabota2.csproj|c:\\users\\golf\\desktop\\c#\\kursova_rabota2\\kursova_rabota2\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D68F5A6-F0EC-4FA2-8A97-F918ADA0749A}|Kursova_Rabota2.csproj|solutionrelative:shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\GOLF\\Desktop\\C#\\Kursova_Rabota2\\Kursova_Rabota2\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\GOLF\\Desktop\\C#\\Kursova_Rabota2\\Kursova_Rabota2\\ClassDiagram1.cd",
+              "RelativeToolTip": "ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-05-04T15:54:31.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShapeInterface.cs",
+              "DocumentMoniker": "C:\\Users\\GOLF\\Desktop\\C#\\Kursova_Rabota2\\Kursova_Rabota2\\ShapeInterface.cs",
+              "RelativeDocumentMoniker": "ShapeInterface.cs",
+              "ToolTip": "C:\\Users\\GOLF\\Desktop\\C#\\Kursova_Rabota2\\Kursova_Rabota2\\ShapeInterface.cs",
+              "RelativeToolTip": "ShapeInterface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T15:36:46.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\GOLF\\Desktop\\C#\\Kursova_Rabota2\\Kursova_Rabota2\\Shape.cs",
+              "RelativeDocumentMoniker": "Shape.cs",
+              "ToolTip": "C:\\Users\\GOLF\\Desktop\\C#\\Kursova_Rabota2\\Kursova_Rabota2\\Shape.cs",
+              "RelativeToolTip": "Shape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T15:36:43.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GOLF\\Desktop\\C#\\Kursova_Rabota2\\Kursova_Rabota2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\GOLF\\Desktop\\C#\\Kursova_Rabota2\\Kursova_Rabota2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T16:02:55.966Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
