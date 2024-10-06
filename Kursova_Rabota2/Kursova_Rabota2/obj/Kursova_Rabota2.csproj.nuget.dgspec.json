@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GOLF\\Desktop\\C#\\Kursova_Rabota2\\Kursova_Rabota2\\Kursova_Rabota2.csproj": {}
+    "C:\\Users\\GOLF\\Desktop\\C#\\Kursova_Rabota2.0\\Kursova_Rabota2\\Kursova_Rabota2\\Kursova_Rabota2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GOLF\\Desktop\\C#\\Kursova_Rabota2\\Kursova_Rabota2\\Kursova_Rabota2.csproj": {
+    "C:\\Users\\GOLF\\Desktop\\C#\\Kursova_Rabota2.0\\Kursova_Rabota2\\Kursova_Rabota2\\Kursova_Rabota2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GOLF\\Desktop\\C#\\Kursova_Rabota2\\Kursova_Rabota2\\Kursova_Rabota2.csproj",
+        "projectUniqueName": "C:\\Users\\GOLF\\Desktop\\C#\\Kursova_Rabota2.0\\Kursova_Rabota2\\Kursova_Rabota2\\Kursova_Rabota2.csproj",
         "projectName": "Kursova_Rabota2",
-        "projectPath": "C:\\Users\\GOLF\\Desktop\\C#\\Kursova_Rabota2\\Kursova_Rabota2\\Kursova_Rabota2.csproj",
+        "projectPath": "C:\\Users\\GOLF\\Desktop\\C#\\Kursova_Rabota2.0\\Kursova_Rabota2\\Kursova_Rabota2\\Kursova_Rabota2.csproj",
         "packagesPath": "C:\\Users\\GOLF\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GOLF\\Desktop\\C#\\Kursova_Rabota2\\Kursova_Rabota2\\obj\\",
+        "outputPath": "C:\\Users\\GOLF\\Desktop\\C#\\Kursova_Rabota2.0\\Kursova_Rabota2\\Kursova_Rabota2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
